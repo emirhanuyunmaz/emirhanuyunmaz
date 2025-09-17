@@ -1,7 +1,7 @@
 ## 👋 Hi, I'm Emirhan Uyunmaz
 
 💻 **Full Stack Developer** | Node.js & React.js & React Native & Next.js & Django \
-🚀 Passionate about **Clean Architecture** && **Microservice Architecture** 
+🚀 Passionate about **Clean Architecture** & **Microservice Architecture** \
 🤖 Interested in **NLP , Machine Learning and Deep Learning**  
 📚 Always eager to learn new technologies.
 
